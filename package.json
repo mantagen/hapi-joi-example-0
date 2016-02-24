@@ -1,0 +1,17 @@
+{
+  "name": "hapi-joi-example",
+  "version": "0.0.1",
+  "description": "First api using hapi and joi",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "devstart": "nodemon server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "hapi": "^13.0.0",
+    "inert": "^3.2.0",
+    "joi": "^8.0.2"
+  }
+}
